@@ -8,7 +8,9 @@ This is the boilerplate code for the URL Shortener Microservice project.
 
 ### Description:
 
-// coming soon
+- Self-explanatory. See the image above.
+- Shortens a URL within the necessary specifications.
+- JavaScript, Express, Node, MongoDB and Mongoose were all used in the building of this project.
 
 ### User tests/stories to pass:
 
